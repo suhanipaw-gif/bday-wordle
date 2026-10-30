@@ -5,7 +5,7 @@ export default function Fourth() {
     <div className="w-full h-[100vh] flex flex-col gap-10 md:gap-0 items-center justify-center">
       <Image
         priority={true}
-        src="/IMG_0032.jpg"
+        src="/https://i.postimg.cc/4dFZ7VkL/Whats-App-Image-2026-10-30-at-10-30-03-PM.jpg"
         alt=""
         className="z-[-1]"
         layout="fill"
