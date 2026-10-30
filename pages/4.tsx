@@ -19,7 +19,7 @@ export default function Fourth() {
         <Image src="/cat-jump.gif" alt="" width={100} height={100} />
       </div>
 
-      <p className="text-white font-semibold text-xl max-w-[90vw] text-center relative z-10 px-4">
+      <p className="text-black font-semibold text-xl max-w-[90vw] text-center relative z-10 px-4">
         {
           "i hope you have a wonderful day and i can't wait to sit in between marushka and samarjit and also go to mumbai/goa/imagica and all the places that we know we're never reaching"
         }
