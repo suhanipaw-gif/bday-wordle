@@ -1,5 +1,5 @@
 import Screen from '../components/Screen'
 
 export default function First() {
-  return <Screen message={':)'} word={'boo'} pushPath={'/4'} />
+  return <Screen message={':)'} word={'COOKIEPIE'} pushPath={'/4'} />
 }
