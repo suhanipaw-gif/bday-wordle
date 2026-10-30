@@ -4,7 +4,7 @@ export default function First() {
   return (
     <Screen
       message="It's wordle time :)"
-      word="HAPPY"
+      word="happy"
       pushPath="/2"
     />
   )
