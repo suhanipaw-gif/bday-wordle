@@ -4,7 +4,7 @@ export default function Third() {
   return (
     <Screen
       message="Hint: think of the subway dessert..?"
-      word="COOKIEPIE"
+      word="cookiepie"
       pushPath="/4"
     />
   )
