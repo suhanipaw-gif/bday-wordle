@@ -1,11 +1,11 @@
 import Screen from '../components/Screen'
 
-export default function First() {
+export default function Second() {
   return (
     <Screen
       message="because obviously"
-       word={'BIRHTDAY'}
-      pushPath={'/3'}
+      word="BIRTHDAY"
+      pushPath="/3"
     />
   )
 }
