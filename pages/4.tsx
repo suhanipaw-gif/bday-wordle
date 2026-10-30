@@ -5,10 +5,10 @@ export default function Fourth() {
     <div className="relative w-full h-[100vh] flex flex-col gap-10 md:gap-0 items-center justify-center overflow-hidden">
       
       {/* I added 'object-top' to this line right here */}
-      <img
+            <img
         src="https://i.postimg.cc/4dFZ7VkL/Whats-App-Image-2026-10-30-at-10-30-03-PM.jpg"
         alt=""
-        className="absolute inset-0 w-full h-full object-cover object-[center_25%] z-[-1]"
+        className="absolute inset-0 w-full h-full object-cover object-[center_20%] z-[-1]"
       />
 
       <div className="w-full flex flex-col md:flex-row items-center justify-center gap-10 md:gap-0 relative z-10">
