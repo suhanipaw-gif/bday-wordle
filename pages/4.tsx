@@ -8,7 +8,7 @@ export default function Fourth() {
       <img
         src="https://i.postimg.cc/4dFZ7VkL/Whats-App-Image-2026-10-30-at-10-30-03-PM.jpg"
         alt=""
-        className="absolute inset-0 w-full h-full object-cover object-top z-[-1]"
+        className="absolute inset-0 w-full h-full object-cover object-[center_25%] z-[-1]"
       />
 
       <div className="w-full flex flex-col md:flex-row items-center justify-center gap-10 md:gap-0 relative z-10">
