@@ -4,7 +4,7 @@ export default function Second() {
   return (
     <Screen
       message="because obviously"
-      word="BIRTHDAY"
+      word="birthday"
       pushPath="/3"
     />
   )
