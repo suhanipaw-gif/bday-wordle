@@ -25,7 +25,7 @@ export default function Fourth() {
       {/* THE NEW PINK PARAGRAPH */}
       <p className="text-[#FF1493] font-extrabold text-xl md:text-2xl max-w-[90vw] text-center relative z-10 px-4 drop-shadow-[0_4px_4px_rgba(0,0,0,0.9)] [-webkit-text-stroke:1px_black]">
         {
-          "i hope you have a wonderful day and i can't wait to sit in between marushka and samarjit and also go to mumbai/goa/imagica and all the places that we know"
+          "i hope you have a wonderful day and i can't wait to sit in between marushka and samarjit and also go to mumbai/goa/imagica and all the places that we know we're never reaching"
         }
       </p>
       
